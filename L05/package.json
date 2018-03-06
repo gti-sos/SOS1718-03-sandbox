@@ -1,0 +1,23 @@
+{
+  "name": "sos1718-03-sandbox",
+  "version": "1.0.0",
+  "description": "Service Oriented Systems (Sistemas Orientados a Servicios) 2017/2018 at [Univeristy of Sevilla](http://www.us.es) ===================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gti-sos/sos1718-03-sandbox.git"
+  },
+  "author": "jm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gti-sos/sos1718-03-sandbox/issues"
+  },
+  "homepage": "https://github.com/gti-sos/sos1718-03-sandbox#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
